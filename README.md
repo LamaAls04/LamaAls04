@@ -1,12 +1,19 @@
-- 👋 Hi, I’m LamaAls04
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Lama Alsubaie
 
-<!---
-LamaAls04/LamaAls04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Senior Data Science student from Saudi Arabia  
+💡 Passionate about machine learning, data analytics, and building meaningful solutions  
+
+## 🚀 Projects I've worked on:
+- Customer purchase prediction using ML models (SVM, XGBoost, etc.)
+- Big data analysis with PySpark & Spark MLlib
+- ETL/ELT pipelines with automation and Power BI dashboards
+- Real-time visualization using weather APIs and Airbnb data
+
+## 🛠️ Tools & Languages
+Python · SQL · Power BI · Scikit-learn · PySpark · Streamlit
+
+## 📫 Contact Me
+- ✉️ Email: lamaalsubaie04@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/lamaalsubaie04](https://www.linkedin.com/in/lamaalsubaie04)
+
+---
